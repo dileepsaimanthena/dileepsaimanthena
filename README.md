@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dileepsaimanthena" alt="dileepsaimanthena" /></a> </p>
 
-- 🔭 I’m currently working with Java OOPs and DSA on a project named **Trip Planner**
+- 🔭 I’m currently working on **Collaborative Code Editor Platform**
 
 - 🌱 I’m currently learning AI and ML **Generative Ai**
 
